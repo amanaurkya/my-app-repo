@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+config.yml
+config.py*
+keystore.*
+*.jks
+*.p12
